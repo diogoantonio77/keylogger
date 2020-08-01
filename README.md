@@ -1,2 +1,3 @@
-# keylogger
-um keylogger simples
+# keyloggeraos 
+
+um keylogger simples apenas para fins educacionais ;)
